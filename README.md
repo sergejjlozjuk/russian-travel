@@ -18,4 +18,4 @@
 * БЭМ
 * Медиа-запрос
 
-[**Ссылка**](https://github.com/sergejjlozjuk/russian-travel/index.html)
+[**Ссылка**](https://github.com/sergejjlozjuk/russian-travel/)

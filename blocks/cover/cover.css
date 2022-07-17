@@ -1,10 +1,14 @@
 .cover{
     margin: 0 auto;
-    max-width: 1184px;
-    max-height: 740px;
-    padding: 12px 0 0;
-    width: fit-content;
-    position: relative;
+    background: no-repeat center url(../../image/cover-trains.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: .8;
+}
+.cover:hover{
+    opacity: .3;
 }
 @media screen and (min-width: 768px) and (max-width: 1023px){
     .cover{
