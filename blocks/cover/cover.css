@@ -1,7 +1,7 @@
 .cover{
     margin: 0 auto;
     background: no-repeat center url(../../image/cover-trains.jpg);
-    background-size: cover;
+    background-size: contain;
     display: flex;
     justify-content: center;
     align-items: center;

@@ -2,6 +2,7 @@
     margin: 0;
     width: fit-content;
     color: #fff;
+    text-decoration-line: underline;
 }
 .place__link:hover{
     opacity: .8;

@@ -12,19 +12,20 @@
 
 @media screen and (min-width: 1024px) and (max-width: 1279px){
     .cover__overlay{
-        min-width: 1024px;
-        min-height: 640px;
+        min-width: 100vw;
+        min-height: calc(100vw/1.6);
+        padding-top: 25px;
     }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px){
     .cover__overlay{
-        min-width: 768px;
-        min-height: 480px;
+        min-width: 100vw;
+        min-height: calc(100vw/1.6);
     }
 }
 @media screen and (min-width: 320px) and (max-width: 767px){
     .cover__overlay{
-        min-width: 320px;
-        min-height: 200px;
+        min-width: 100vw;
+        min-height: calc(100vw/1.6); /*так соотношение сторон картинки 16:10*/
 }
 }
