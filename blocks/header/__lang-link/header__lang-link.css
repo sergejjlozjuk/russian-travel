@@ -14,5 +14,7 @@
     .header__lang-link{
         font-size: 18px;
         line-height: 20px;
+        justify-content: flex-end;
+        column-gap: 18px;
     }
 }
