@@ -6,7 +6,6 @@
     justify-content: center;
     align-items: center;
 }
-
 @media screen and (min-width: 768px) and (max-width: 1023px){
     .cover{
         padding-top: 17px;

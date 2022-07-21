@@ -9,6 +9,7 @@
     grid-column-start: 2;
 }
 
+
 @media screen and (min-width: 768px) and (max-width: 1023px){
     .place__paragraph{
         font-weight: 400;
